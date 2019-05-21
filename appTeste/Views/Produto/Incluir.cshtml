@@ -1,0 +1,29 @@
+﻿@model appTeste.Models.ProdutoModelView
+@{
+    ViewBag.Title = "Incluir";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+
+        @using (Html.BeginForm("Incluir", "Produto", FormMethod.Post))
+        {
+
+            @Html.Partial("_Produto")
+            @Html.AntiForgeryToken()
+
+            <input type="submit" value="Gravar" class="btn btn-primary" />
+
+            @Html.ValidationMessageFor(p => p.CodigoRef)
+            @Html.ValidationMessageFor(p => p.Descricao)
+            @Html.ValidationMessageFor(p => p.Saldo)
+
+        }
+
+
+
+
+    </div>
+</div>
+

@@ -1,0 +1,192 @@
+C:\Projetos de Teste\appTeste\appTeste\bin\appTeste.dll.config
+C:\Projetos de Teste\appTeste\appTeste\bin\appTeste.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\appTeste.pdb
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\csc.exe
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\csc.exe.config
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\csc.rsp
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\csi.exe
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\csi.exe.config
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\csi.rsp
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.AppContext.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.Collections.Immutable.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.Console.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.IO.Compression.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.IO.FileSystem.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.IO.Pipes.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.Security.AccessControl.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.Security.Claims.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.ValueTuple.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.Xml.XPath.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\vbc.exe
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\vbc.exe.config
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\vbc.rsp
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\VBCSCompiler.exe
+C:\Projetos de Teste\appTeste\appTeste\bin\roslyn\VBCSCompiler.exe.config
+C:\Projetos de Teste\appTeste\appTeste\bin\Antlr3.Runtime.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\Newtonsoft.Json.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\System.Web.Helpers.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\System.Web.Mvc.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\System.Web.Optimization.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\System.Web.Razor.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\System.Web.WebPages.Deployment.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\System.Web.WebPages.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\System.Web.WebPages.Razor.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\WebGrease.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\System.Web.Helpers.xml
+C:\Projetos de Teste\appTeste\appTeste\bin\System.Web.Mvc.xml
+C:\Projetos de Teste\appTeste\appTeste\bin\System.Web.Optimization.xml
+C:\Projetos de Teste\appTeste\appTeste\bin\System.Web.Razor.xml
+C:\Projetos de Teste\appTeste\appTeste\bin\System.Web.WebPages.xml
+C:\Projetos de Teste\appTeste\appTeste\bin\System.Web.WebPages.Deployment.xml
+C:\Projetos de Teste\appTeste\appTeste\bin\System.Web.WebPages.Razor.xml
+C:\Projetos de Teste\appTeste\appTeste\bin\Newtonsoft.Json.xml
+C:\Projetos de Teste\appTeste\appTeste\bin\Antlr3.Runtime.pdb
+C:\Projetos de Teste\appTeste\appTeste\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Projetos de Teste\appTeste\appTeste\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Projetos de Teste\appTeste\appTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos de Teste\appTeste\appTeste\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\pt-br\System.Web.Razor.resources.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Projetos de Teste\appTeste\appTeste\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Projetos de Teste\appTeste\appTeste\obj\Debug\appTeste.csproj.CoreCompileInputs.cache
+C:\Projetos de Teste\appTeste\appTeste\obj\Debug\appTeste.csproj.CopyComplete
+C:\Projetos de Teste\appTeste\appTeste\obj\Debug\appTeste.dll
+C:\Projetos de Teste\appTeste\appTeste\obj\Debug\appTeste.pdb
+C:\appTeste\appTeste\obj\Debug\appTeste.csprojAssemblyReference.cache
+C:\appTeste\appTeste\obj\Debug\appTeste.csproj.CoreCompileInputs.cache
+C:\appTeste\appTeste\obj\Debug\appTeste.dll
+C:\appTeste\appTeste\obj\Debug\appTeste.pdb
+C:\appTeste\appTeste\bin\appTeste.dll.config
+C:\appTeste\appTeste\bin\appTeste.dll
+C:\appTeste\appTeste\bin\appTeste.pdb
+C:\appTeste\appTeste\bin\roslyn\csc.exe
+C:\appTeste\appTeste\bin\roslyn\csc.exe.config
+C:\appTeste\appTeste\bin\roslyn\csc.rsp
+C:\appTeste\appTeste\bin\roslyn\csi.exe
+C:\appTeste\appTeste\bin\roslyn\csi.exe.config
+C:\appTeste\appTeste\bin\roslyn\csi.rsp
+C:\appTeste\appTeste\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\appTeste\appTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\appTeste\appTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\appTeste\appTeste\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\appTeste\appTeste\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\appTeste\appTeste\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\appTeste\appTeste\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\appTeste\appTeste\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\appTeste\appTeste\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\appTeste\appTeste\bin\roslyn\Microsoft.Managed.Core.targets
+C:\appTeste\appTeste\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\appTeste\appTeste\bin\roslyn\System.AppContext.dll
+C:\appTeste\appTeste\bin\roslyn\System.Collections.Immutable.dll
+C:\appTeste\appTeste\bin\roslyn\System.Console.dll
+C:\appTeste\appTeste\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\appTeste\appTeste\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\appTeste\appTeste\bin\roslyn\System.IO.Compression.dll
+C:\appTeste\appTeste\bin\roslyn\System.IO.FileSystem.dll
+C:\appTeste\appTeste\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\appTeste\appTeste\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\appTeste\appTeste\bin\roslyn\System.IO.Pipes.dll
+C:\appTeste\appTeste\bin\roslyn\System.Reflection.Metadata.dll
+C:\appTeste\appTeste\bin\roslyn\System.Security.AccessControl.dll
+C:\appTeste\appTeste\bin\roslyn\System.Security.Claims.dll
+C:\appTeste\appTeste\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\appTeste\appTeste\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\appTeste\appTeste\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\appTeste\appTeste\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\appTeste\appTeste\bin\roslyn\System.Security.Principal.Windows.dll
+C:\appTeste\appTeste\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\appTeste\appTeste\bin\roslyn\System.ValueTuple.dll
+C:\appTeste\appTeste\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\appTeste\appTeste\bin\roslyn\System.Xml.XmlDocument.dll
+C:\appTeste\appTeste\bin\roslyn\System.Xml.XPath.dll
+C:\appTeste\appTeste\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\appTeste\appTeste\bin\roslyn\vbc.exe
+C:\appTeste\appTeste\bin\roslyn\vbc.exe.config
+C:\appTeste\appTeste\bin\roslyn\vbc.rsp
+C:\appTeste\appTeste\bin\roslyn\VBCSCompiler.exe
+C:\appTeste\appTeste\bin\roslyn\VBCSCompiler.exe.config
+C:\appTeste\appTeste\bin\Antlr3.Runtime.dll
+C:\appTeste\appTeste\bin\FluentNHibernate.dll
+C:\appTeste\appTeste\bin\Iesi.Collections.dll
+C:\appTeste\appTeste\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\appTeste\appTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\appTeste\appTeste\bin\Microsoft.Web.Infrastructure.dll
+C:\appTeste\appTeste\bin\Newtonsoft.Json.dll
+C:\appTeste\appTeste\bin\NHibernate.dll
+C:\appTeste\appTeste\bin\Ninject.dll
+C:\appTeste\appTeste\bin\Ninject.Web.Common.dll
+C:\appTeste\appTeste\bin\Ninject.Web.Common.WebHost.dll
+C:\appTeste\appTeste\bin\Remotion.Linq.dll
+C:\appTeste\appTeste\bin\Remotion.Linq.EagerFetching.dll
+C:\appTeste\appTeste\bin\System.Diagnostics.DiagnosticSource.dll
+C:\appTeste\appTeste\bin\System.Web.Helpers.dll
+C:\appTeste\appTeste\bin\System.Web.Mvc.dll
+C:\appTeste\appTeste\bin\System.Web.Optimization.dll
+C:\appTeste\appTeste\bin\System.Web.Razor.dll
+C:\appTeste\appTeste\bin\System.Web.WebPages.Deployment.dll
+C:\appTeste\appTeste\bin\System.Web.WebPages.dll
+C:\appTeste\appTeste\bin\System.Web.WebPages.Razor.dll
+C:\appTeste\appTeste\bin\WebActivatorEx.dll
+C:\appTeste\appTeste\bin\WebGrease.dll
+C:\appTeste\appTeste\bin\Antlr3.Runtime.xml
+C:\appTeste\appTeste\bin\FluentNHibernate.xml
+C:\appTeste\appTeste\bin\Iesi.Collections.xml
+C:\appTeste\appTeste\bin\NHibernate.xml
+C:\appTeste\appTeste\bin\Ninject.xml
+C:\appTeste\appTeste\bin\Ninject.Web.Common.xml
+C:\appTeste\appTeste\bin\Ninject.Web.Common.WebHost.xml
+C:\appTeste\appTeste\bin\Remotion.Linq.xml
+C:\appTeste\appTeste\bin\Remotion.Linq.EagerFetching.xml
+C:\appTeste\appTeste\bin\System.Web.Helpers.xml
+C:\appTeste\appTeste\bin\System.Web.Mvc.xml
+C:\appTeste\appTeste\bin\System.Web.Optimization.xml
+C:\appTeste\appTeste\bin\System.Web.Razor.xml
+C:\appTeste\appTeste\bin\System.Web.WebPages.xml
+C:\appTeste\appTeste\bin\System.Web.WebPages.Deployment.xml
+C:\appTeste\appTeste\bin\System.Web.WebPages.Razor.xml
+C:\appTeste\appTeste\bin\Newtonsoft.Json.xml
+C:\appTeste\appTeste\bin\System.Diagnostics.DiagnosticSource.xml
+C:\appTeste\appTeste\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\appTeste\appTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\appTeste\appTeste\bin\pt-br\System.Web.Helpers.resources.dll
+C:\appTeste\appTeste\bin\pt-br\System.Web.Mvc.resources.dll
+C:\appTeste\appTeste\bin\pt-br\System.Web.Optimization.resources.dll
+C:\appTeste\appTeste\bin\pt-br\System.Web.Razor.resources.dll
+C:\appTeste\appTeste\bin\pt-br\System.Web.WebPages.resources.dll
+C:\appTeste\appTeste\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\appTeste\appTeste\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\appTeste\appTeste\obj\Debug\appTeste.csproj.CopyComplete
+C:\appTeste\appTeste\bin\Ninject.Web.Mvc.dll
+C:\appTeste\appTeste\bin\Ninject.Web.Mvc.xml

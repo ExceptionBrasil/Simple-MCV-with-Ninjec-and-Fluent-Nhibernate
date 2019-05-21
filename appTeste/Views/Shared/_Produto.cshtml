@@ -1,0 +1,13 @@
+﻿@model appTeste.Models.ProdutoModelView
+<div class="form-group">
+    @Html.LabelFor(p => p.CodigoRef)
+    @Html.TextBoxFor(p => p.CodigoRef, htmlAttributes: new { @class = "form-control" })
+</div>
+<div class="form-group">
+    @Html.LabelFor(p => p.Descricao)
+    @Html.TextBoxFor(p => p.Descricao, htmlAttributes: new { @class = "form-control" })
+</div>
+<div class="form-group">
+    @Html.LabelFor(p => p.Saldo)
+    @Html.TextBoxFor(p => p.Saldo, htmlAttributes: new { @class = "form-control" })
+</div>

@@ -1,0 +1,37 @@
+﻿@model IList<appTeste.Models.ProdutoModelView>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">    
+    <div class="row">
+        <div class="text-center">
+            <h4>Listagem do Cadastro de Produtos</h4>
+        </div>
+        <div class="table-responsive">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Código</th>
+                        <th>Descrição</th>
+                        <th>Saldo</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var p in Model)
+                    {
+                        <tr>
+                            <td>@p.Id</td>
+                            <td>@p.CodigoRef</td>
+                            <td>@p.Descricao</td>
+                            <td>@p.Saldo</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
